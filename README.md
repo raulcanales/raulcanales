@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hola! 👋 I'm Raúl
+
+![](https://vistr.dev/badge?repo=raulcanales.raulcanales)
+[![](https://img.shields.io/badge/-Ra%C3%BAl%20A.%20Canales-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raulcanales/)](https://www.linkedin.com/in/raulcanales/)
+
+I work full time as a Lead Software Engineer at [Unity Technologies](https://github.com/Unity-Technologies) for the Test Platform team, where we are responsible for a major part of the tooling used by Unity's testing pipeline
 
 <!--
 **raulcanales/raulcanales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
