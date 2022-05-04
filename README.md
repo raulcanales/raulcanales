@@ -10,3 +10,7 @@ I work full time as a Lead Software Engineer at [Unity Technologies](https://git
 ## Stats
 
 ![raulcanales's github stats](https://github-readme-stats.vercel.app/api?username=raulcanales&show_icons=true&theme=dracula)
+
+## Now listening
+
+[![Spotify](https://novatorem-raulcanales.vercel.app/api/spotify)](https://open.spotify.com/user/dank0ne)
