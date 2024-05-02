@@ -1,4 +1,4 @@
-### Hola! 👋 I'm Raúl
+<!--### Hola! 👋 I'm Raúl
 
 ![](https://vistr.dev/badge?repo=raulcanales.raulcanales)
 [![](https://img.shields.io/badge/-@racr4-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/racr4)
@@ -14,3 +14,4 @@ I work full time as a Lead Software Engineer at [Unity Technologies](https://git
 ## Now listening
 
 [![Spotify](https://novatorem-raulcanales.vercel.app/api/spotify)](https://open.spotify.com/user/dank0ne)
+-->
